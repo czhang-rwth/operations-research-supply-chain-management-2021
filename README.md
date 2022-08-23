@@ -1,3 +1,3 @@
-# Supply-Chain-Management
+# operations research supply chain management 
 
-coding exercises of the lecture advanced analytics in supply chain management 
+gurobi exercises 
